@@ -169,7 +169,7 @@ HEADER STYLING
 
 .header {
 	background-color: seagreen;
-	background-image: url('../img/touring.jpg');
+	background-image: url('../img/goldfish.jpg');
 	background-size: cover; 
 	background-position: center center;
 	color: white;
@@ -190,6 +190,7 @@ HEADER STYLING
 		font-family: $sans-serif;
 		font-weight: 800;
 		text-transform: uppercase;
+		text-shadow: 0 0 .2em #000;
 
 		a {
 			color: white;
