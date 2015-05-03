@@ -3,7 +3,6 @@ layout: default
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Dernières notes de blog</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
@@ -13,7 +12,6 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Notes plus récentes</a> 
