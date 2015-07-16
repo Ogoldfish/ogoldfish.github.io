@@ -38,12 +38,25 @@ Tout le défi de la CNV, pendant cette période, est de ne pas dire juste « no
 
 ### Les boîtes de DVD
 
-La poissonnette adore, au-delà du raisonnable, les boîtes de DVD ou de jeux vidéo. Fort heureusement pour elle (et malheureusement pour les boîtes), nous disposons d'une ludothèque très fournie qu'elle adore vider en sortant les boîtes une par une de l'étagère pour les poser ailleurs.
+Vers 17-18 mois, la poissonnette adorait, au-delà du raisonnable, les boîtes de DVD ou de jeux vidéo. Fort heureusement pour elle (et malheureusement pour les boîtes), nous disposons d'une ludothèque très fournie qu'elle adorait vider en sortant les boîtes une par une de l'étagère pour les poser ailleurs.
 
-Premier réflexe : dire « non » et intervenir pour l'empêcher de sortir les boîtes. Complètement inefficace : elle pleure, elle se débat, elle jette les boîtes (avec les CD dedans, donc) pour protester.
+Premier réflexe : dire « non » et intervenir pour l'empêcher de sortir les boîtes. Complètement inefficace : elle pleure, elle se débat, elle jette les boîtes (avec les CD dedans, donc T_T) pour protester.
 
 Ma deuxième stratégie a été la suivante : je l'encourageais à me donner les boîtes au fur et à mesure qu'elle les sortait. Si elle faisait mine d'en  jeter une par terre, je lui montrais comment la poser doucement (sur le canapé). Et après, je lui donnais les boîtes en lui disant de les remettre à leur place. Ce qu'elle faisait ! À chaque boîte remise sur l'étagère (quelle que soit la position de la boîte sur l'étagère), je la félicitais.
 
+Le plus compliqué était de changer de schéma de pensée : au lieu de dire « ne fais pas ça », il fallait aller plus loin et ajouter « fais plutôt ceci ».
+
+### [Un exemple de fail de la CNV] La crise du jus de fruits
+
+Parfois, moi aussi je suis crevée. Ce jour-là, j'étais vraiment crevée. Je revenais des courses avec la petite. Assise au salon, j'ai voulu lui faire goûter un petit jus de fruits pas trop sucré. Elle m'a arraché la bouteille des mains au lieu de me laisser la tenir, ce qui a renversé un peu de jus de fruits par terre.
+
+Là, au lieu de dire « laisse-moi plutôt tenir la bouteille parcce que j'ai peur que tu renverses du jus sur le sol tout propre » ou « je te fais confiance, bois dans la bouteille » j'ai hurlé quelque chose comme « PUTAIIIIIIIINNN BORDEEEEELLLL FÉCHIEEEEEER MEEEEEERDE » (ce qui n'est pas hyper recommandé par les bouquins de CNV, si vous avez bien suivi).
+
+J'avais envie de lui crier dessus, mais en fait j'ai réalisé au dernier moment que j'avais juste envie de crier tout court. Donc j'ai tout laissé en plan au salon, j'ai posé la gamine dans son lit à barreaux (où il ne pouvait rien lui arriver) et je suis allée crier plein de gros mots dans ma chambre à moi.
+
+Alerté par les cris, le mari a pu récupérer la gamine dans son lit (plus étonnée qu'effrayée, apparemment), nettoyer le salon et récupérer finalement sa femme qui décompressait bruyamment sur le lit parental.
+
+Voilà, juste pour dire qu'on n'est pas au pays des bisounours et que j'imagine qu'on craque tous plus ou moins. Juste essayer de limiter les conséquences.
 
 <small class="credit"><a href="https://www.flickr.com/photos/rob-young/4630024424">Photo</a> : <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC-BY</a> Rob Young
 </small>
