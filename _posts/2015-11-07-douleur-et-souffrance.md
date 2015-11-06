@@ -48,7 +48,17 @@ Elle m'a montré l'aiguille qui sert à la pose et le petit tuyau qui reste dans
 
 (Elle m'a aussi montré le système aiguille/cathéter qui sert pour les perfusions, justement. Je comprends vachement mieux le fonctionnement du truc quand la personne ne s'apprête pas à planter tout ça dans mon poignet. En fait.)
 
-## La douleur pendant l'accouchement physiologique
+## « À quoi sert la douleur ? » ou « Mais en fait, pourquoi tu veux accoucher sans péri ? »
+
+douleur ≠ souffrance
+
+rite initiatique
+
+guide
+
+limitation des naissances ? :D
+
+## La douleur pendant les différentes phases de l'accouchement physiologique
 
 ### 1. Le début du travail de 3 à 6 cm
 
@@ -56,8 +66,26 @@ Pendant cette phase, il est important de « rentrer dans ma bulle ». L'utéru
 
 Si on me stimule intellectuellement pendant cette phase, ça va me faire sécréter de l'adrénaline et tout casser le cercle vertueux de la drogue autogénérée par mon cerveau ci-dessus.
 
+À faire : SE REPOSER entre les contractions, voire dès la fin du pic de la contraction, rester au calme, proposer une ambiance familière, varier les positions…
+
 ### 2. Le pétage de plombs de 6 à 10 cm
 
-### 3. La descente du bébé dans le bassin
+"phase de désespérance"
+
+cerveau reptilien prend le relais
+
+"si tu veux te mettre à quatre pattes et crier toute nue, tu peux"
+
+À faire : continuer de varier les positions, tenter les massages, le bain…
+
+réfléchir au préalable à ce qui nous fait du bien quand on a mal (pendant les règles par ex. : on râle ? On s'emberlificote dans un plaid ?), comment on gère l'inconnu (un crétin nous fait une queue de poisson : on l'insulte ? On ouvre la fenêtre pour avoir de l'air ? On met de la musique ?)
+
+### 3. La descente du bébé dans le bassin (yo-yo)
+
+phase plus calme après la précédente
+
+sur le côté, bébé qui fait du monter-descendre
 
 ### 4. Tout le monde dehors
+
+décharge d'adrénaline
