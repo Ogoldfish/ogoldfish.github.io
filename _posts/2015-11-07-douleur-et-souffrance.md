@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Douleur lors d'un accouchement en plateau technique"
-image: posts/2015/06/nausea.jpg
+image: posts/2015/11/hulkyoda.jpg
 ---
 
-Cette grossesse est marquée par une énooooorme flemme, qui a plutôt bien fichu à l'eau mon projet de vous raconter sur ce blog mon projet d'accouchement en plateau technique avec une sage-femme libérale.
+<p class="intro"><span class="dropcap">C<span>ette grossesse est marquée par une énooooorme flemme, qui a plutôt bien fichu à l'eau mon projet de vous raconter sur ce blog mon projet d'accouchement en plateau technique avec une sage-femme libérale.</p>
 
 Mais comme en ce moment, je suis en train de suivre les séances de préparation à la naissance avec elle, et que la naissance n'aura lieu que dans quelques mois, je peux tenter de prendre quelques notes ici. Je les relirai en janvier, quand les choses sérieuses se rapprocheront.
 
@@ -97,3 +97,7 @@ Cette période est beaucoup plus calme que la précédente. En général, on est
 Au moment où le bébé s'approche de la sortie pour commencer à appuyer sur le périnée, le réflexe de poussée se déclenche. Donc on pousse. Par réflexe. Tout cela est accompagné d'une décharge d'adrénaline pour réoxygéner un peu tout le monde.
 
 À faire : suivre le réflexe. Pour aider à l'ouverture du périnée, on peut appliquer des compresses chaudes… il faudra probablement le rappeler à la sage-femme le moment venu.
+
+
+<small class="credit"><a href="https://www.flickr.com/photos/jdhancock/4698871586/">Photo</a> : Hulk vs. Yoda <a href="https://creativecommons.org/licenses/by/2.0/">CC-BY</a> 
+JD Hancock</small>
