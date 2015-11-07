@@ -50,17 +50,21 @@ Elle m'a montré l'aiguille qui sert à la pose et le petit tuyau qui reste dans
 
 ## « À quoi sert la douleur ? » ou « Mais en fait, pourquoi tu veux accoucher sans péri ? »
 
-douleur ≠ souffrance
+La sage-femme a commencé par me demander « à quoi ça sert la douleur ? » et tout ce que j'ai trouvé à répondre, c'est que ça servait à réguler naturellement les naissances.
 
-rite initiatique
+Il en ressort que j'avais confondu « douleur » et « souffrance ». La _douleur_ est normale, d'une intensité variable, mais tant qu'on arrive à la gérer, qu'on n'est pas submergée, on n'est pas en _souffrance_. Un bon accompagnement aide à _supporter_ la douleur, plus qu'à la _soulager_.
 
-guide
+J'y vois un parallèle entre le « bon stress » ou la « bonne peur » qui donnent des super-pouvoirs, et le mauvais stress ou la mauvaise peur qui nous rendent flageolants et nous font perdre tous nos moyens. Le bon stress, on l'exploite pour devenir meilleur dans les situations stressantes (on se prépare mieux à un examen, on est plus alerte) plutôt que de s'astreindre à l'ignorer (ce qui ne marche pas et… tend à le transformer en mauvais stress).
 
-limitation des naissances ? :D
+La douleur, donc, pas la souffrance, peut servir de guide pendant l'accouchement : si telle ou telle position fait mal, c'est que le bébé est « bloqué » donc on va bouger. Et plus on bouge, plus le bébé va sortir vite… Donc plus on a mal, moins on a mal longtemps. Ça a l'air cool. Ça donne presque envie d'avoir mal. (Mais tout est une histoire de mesure, hein.)
+
+Ensuite la sage-femme a reformulé la question en « pourquoi tu veux accoucher sans péri ? ». 
+
+Là j'avais deux réponses. Ma première était une réaction pure à ma première péri que j'ai « payée » cher (quelques heures sous synto sans accompagnement, autrement dit une grande souffrance). Mais j'essaie de voir cette grossesse et cet accouchement pour eux-mêmes, pas en simple réaction à ce qui s'est mal passé sur les premiers. Ça joue mais je ne veux pas que ce soit la raison principale. Finalement, je veux un accouchement physio… par curiosité ? Pour me prouver que je peux y arriver, et mon corps aussi ? Un peu de tout ça.
 
 ## La douleur pendant les différentes phases de l'accouchement physiologique
 
-### 1. Le début du travail de 3 à 6 cm
+### 1. Le début du travail, de 3 à 6 cm
 
 Pendant cette phase, il est important de « rentrer dans ma bulle ». L'utérus contracte sous l'effet de l'ocytocine, ça fait mal, le cerveau compense en générant des endorphines, c'est cool, ça fait encore plus d'ocytocine, plus de contractions, plus d'endorphines.
 
@@ -68,24 +72,28 @@ Si on me stimule intellectuellement pendant cette phase, ça va me faire sécré
 
 À faire : SE REPOSER entre les contractions, voire dès la fin du pic de la contraction, rester au calme, proposer une ambiance familière, varier les positions…
 
-### 2. Le pétage de plombs de 6 à 10 cm
+Axe de réflexion au préalable : si j'ai mal, par exemple pendant les règles, ou en cas de maux de tête, comment je gère la douleur ? Est-ce que j'ai besoin de râler sur mère nature ? De mettre un gros pyjama moche en pilou, m'emberlificoter dans un plaid et d'éteindre la lumière ? Est-ce que j'aime bien les massages dans ces situations-là ? Essayer de prévoir la logistique en fonction de ces réflexions (mettre une bouillotte, un plaid et le vieux T-shirt moche dans la valise, expliquer au conjoint qu'il aura peut-être quelques massages à faire, etc.).
 
-"phase de désespérance"
+### 2. Le pétage de plombs, de 6 à 10 cm
 
-cerveau reptilien prend le relais
+C'est la partie que je connaissais sous le nom de « phase de désespérance », la fin de la dilatation du col. Les contractions sont plus costaud qu'au début, le bébé appuie fort sur le col. C'est une phase, m'explique la sage-femme, où certaines femmes « pètent un plomb » et insultent tout ce qui passent, ou pleurent et hurlent… Mais la plupart se contentent d'un « oh pff chuis fatiguée, j'en ai marre… ».
 
-"si tu veux te mettre à quatre pattes et crier toute nue, tu peux"
+À faire : lâcher prise, écouter ce que « demande » le corps et le faire. Y compris si c'est se mettre à quatre pattes et hurler des insanités (sic). Continuer de varier les positions, et tenter d'autres techniques pour soulager la douleur (qui n'auront probablement pas encore été tentées sur le début).
 
-À faire : continuer de varier les positions, tenter les massages, le bain…
+Je crois me souvenir que dans cette phase-ci, c'est le cerveau reptilien qui prend le relais, et dans la phase précédente c'était le cerveau limbique. Cela dit j'ai un peu de mal à différencier les différentes couches de cerveau, à part le cortex préfrontal parce que j'ai joué au Dr Kawashima quand j'étais petite. Et le cortex préfrontal, je sais qu'il n'a absolument rien à faire à mon accouchement.
 
-réfléchir au préalable à ce qui nous fait du bien quand on a mal (pendant les règles par ex. : on râle ? On s'emberlificote dans un plaid ?), comment on gère l'inconnu (un crétin nous fait une queue de poisson : on l'insulte ? On ouvre la fenêtre pour avoir de l'air ? On met de la musique ?)
+Réflexion préalable à creuser : comment on gère l'inconnu, les surprises (une voiture nous fait une queue de poisson sur l'autoroute : on l'insulte ? On ouvre la fenêtre pour avoir de l'air ? On met de la musique ?).
 
-### 3. La descente du bébé dans le bassin (yo-yo)
+(Je réfléchis à ces questions en écrivant l'article : quand on me fait une queue de poisson, j'insulte le mec et j'ouvre ma veste ou mon gilet pour avoir moins chaud. Est-ce qu'à 8 cm je vais donc me mettre à poil pour insulter mère nature ? ô_Ô J'espère que mon mari et la sage-femme auront une amnésie subite et sélective. Au cas où, je note sur ma todo list de prévenir mon mari que je vais peut-être me transformer en Hulk.)
 
-phase plus calme après la précédente
+### 3. La descente du bébé dans le bassin (le yo-yo)
 
-sur le côté, bébé qui fait du monter-descendre
+Cette période est beaucoup plus calme que la précédente. En général, on est dans une position pas trop fatigante, sur le côté ou sur un ballon… Le col, complètement dilaté, ne « lutte » plus contre la sortie du bébé. C'est désagréable mais moins douloureux que la fin de la dilatation. Le bébé, par un mouvement de va-et-vient, descend petit à petit à travers la sortie.
+
+À faire : je ne sais plus ce qu'elle m'a dit. Je me souviens qu'au premier accouchement, j'ai accompagné les contractions en soufflant longuement et en contractant ce qui me restait d'abdos. J'ai effectivement le souvenir d'une phase « tranquille » après les larmes qui avaient précédé et le coup de rush qui allait suivre. J'étais sur le côté, je sentais des trucs assez inédits dans mon ventre et j'appelais la sage-femme de garde toutes les 10 minutes pour lui dire que j'étais en train de faire caca. (Sauf qu'en fait non.)
 
 ### 4. Tout le monde dehors
 
-décharge d'adrénaline
+Au moment où le bébé s'approche de la sortie pour commencer à appuyer sur le périnée, le réflexe de poussée se déclenche. Donc on pousse. Par réflexe. Tout cela est accompagné d'une décharge d'adrénaline pour réoxygéner un peu tout le monde.
+
+À faire : suivre le réflexe. Pour aider à l'ouverture du périnée, on peut appliquer des compresses chaudes… il faudra probablement le rappeler à la sage-femme le moment venu.
