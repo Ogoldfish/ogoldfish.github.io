@@ -4,7 +4,7 @@ title:  "Douleur lors d'un accouchement en plateau technique"
 image: posts/2015/11/hulkyoda.jpg
 ---
 
-<p class="intro"><span class="dropcap">C<span>ette grossesse est marquée par une énooooorme flemme, qui a plutôt bien fichu à l'eau mon projet de vous raconter sur ce blog mon projet d'accouchement en plateau technique avec une sage-femme libérale.</p>
+<p class="intro"><span class="dropcap">C</span>ette grossesse est marquée par une énooooorme flemme, qui a plutôt bien fichu à l'eau mon projet de vous raconter sur ce blog mon projet d'accouchement en plateau technique avec une sage-femme libérale.</p>
 
 Mais comme en ce moment, je suis en train de suivre les séances de préparation à la naissance avec elle, et que la naissance n'aura lieu que dans quelques mois, je peux tenter de prendre quelques notes ici. Je les relirai en janvier, quand les choses sérieuses se rapprocheront.
 
