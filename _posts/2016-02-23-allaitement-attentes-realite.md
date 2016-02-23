@@ -145,6 +145,10 @@ qu'un bracelet débile !
     <figcaption>Globalement, c'est encore un peu le bordel, quand même</figcaption>
 </figure>
 
-J'aurais dû m'en douter : je ne suis clairement pas une fille à bijoux, et tous mes collègues me traitent de _data nerd_. Ça devait _forcément_ se finir comme ça.
+J'aurais dû m'en douter : je ne suis clairement pas une fille à bijoux, et tous mes collègues me traitent de _data nerd_. Ça devait _forcément_ se finir comme ça. Un bracelet n'aurait jamais pu me suffire.
 
 J'ai quand même demandé un collier d'allaitement/portage sur ma liste de naissance pour occuper le bébé en écharpe dans quelques mois. Ya plus qu'à attendre qu'une âme généreuse passe par là (ou que je craque et que je finisse par m'en acheter un moi-même).
+
+## Et ce n'est pas tout
+
+Je pourrais dédier un article entier à ce que j'ai découvert en allaitant alors que je ne m'y attendais pas. Ça parlerait un peu de caca, mais aussi de coton, de meubles Ikea et de tisanes.
