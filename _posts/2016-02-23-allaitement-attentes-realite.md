@@ -4,7 +4,7 @@ title:  "Allaitement : expectations vs. reality"
 image: posts/2016/boobs-fontaine.jpg
 ---
 
-Enceinte, j'avais préparé une liste qui recensait les raisons pour lesquelles j'avais décidé d'allaiter art sein mon deuxième enfant. La voici, sans filtre :
+Enceinte, j'avais préparé une liste qui recensait les raisons pour lesquelles j'avais décidé d'allaiter au sein mon deuxième enfant. La voici, sans filtre :
 
 <figure>
     <img src="{{ '/assets/img/posts/2016/10-raisons-dallaiter.png' | prepend: site.baseurl }}" alt=""> 
