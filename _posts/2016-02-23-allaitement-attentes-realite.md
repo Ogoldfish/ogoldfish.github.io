@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Allaitement : expectations vs. reality"
-image: posts/2015/04/writing.jpg
+image: posts/2016/boobs-fontaine.jpg
 ---
 
 Enceinte, j'avais préparé une liste qui recensait les raisons pour lesquelles j'avais décidé d'allaiter art sein mon deuxième enfant. La voici, sans filtre :
