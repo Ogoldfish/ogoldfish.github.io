@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comparatif : assistante maternelle vs. garde partagée"
-image: posts/2015/05/girafe.jpg
+image: posts/2016/money.jpg
 ---
 
 Je suis en train de me pencher sur la question de la garde de mes deux filles pour la fin de mon congé parental (en septembre). La petite aura environ 7 mois, la grande un peu moins de 3 ans (et elle rentrera à l'école maternelle).
@@ -47,4 +47,8 @@ Pour une assmat, on a un crédit de maximum 1150 € par an et par enfant, pour
     <img src="{{ '/assets/img/posts/2016/comparatif.jpg' | prepend: site.baseurl }}" alt=""> 
     <figcaption>Comparatif excel</figcaption>
 </figure>
+
+
+<small class="credit"><a href="https://flic.kr/p/fTr2eB">Photo</a> : <em>Money</em> <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a> 
+Mario Antonio Pena Zapatería</small>
 
