@@ -33,16 +33,24 @@ Donc voilà : une consult par mois avec « ma » sage-femme, et 3 rendez-vous 
 
 Les échographies sont à faire en ville ou bien à l'hôpital, selon ce qui nous arrange le mieux. J'ai été les faire à l'hôpital où je vais accoucher, histoire de connaître les lieux… et aussi parce que la médecin qui s'occupe des écho est super sympa.
 
-Les analyses de sang et autres fluides corporels sont, dans leur grande majorité, prescrites par la sage-femme libérale qui me suit. L'hôpital a juste demandé, au 8<sup>e</sup>, mois une analyse pour l'hépatite C, ce qui a fait râler la sage-femme qui a dit qu'elle allait les appeler pour comprendre cette nouvelle lubie (sic). Je ne sais pas trop où en sont les débats à l'heure actuelle. (Par contre je sais que je ne suis pas immunisée contre l'hépatite C, et ça me fait une belle jambe.) Je pars faire les prises de sang dans le labo à côté de chez moi, qui les envoie (parfois à temps) à ma sage-femme.
+Les analyses de sang et autres fluides corporels sont, dans leur grande majorité, prescrites par la sage-femme libérale qui me suit. L'hôpital a juste demandé, au 8<sup>e</sup> mois, une analyse pour l'hépatite C, ce qui a fait râler la sage-femme qui a dit qu'elle allait les appeler pour comprendre cette nouvelle lubie (sic). Je ne sais pas trop où en sont les débats à l'heure actuelle. (Par contre je sais que je ne suis pas immunisée contre l'hépatite C, et ça me fait une belle jambe.) Je pars faire les prises de sang dans le labo à côté de chez moi, qui les envoie (parfois à temps) à ma sage-femme.
 
 Pour la préparation à la naissance, ma sage-femme m'a laissé le choix (si je voulais faire de l'haptonomie ou du yoga, par exemple). J'ai préféré suivre les séances de préparation classiques avec elle : elles m'ont permis de poser toutes mes questions « concrètes » sur le travail et la naissance dans le cadre de l'accompagnement global. Du coup, on a beaucoup parlé logistique et on a fait assez peu d'exercices de poussée/respiration/relaxation si je compare à ma première grossesse. Ça me convient très bien, parce que je suis une grande stressée de la logistique.
 
 ## Comment ça se passe pour la naissance ?
 
-Ma sage-femme est d'astreinte tout le dernier mois : je peux l'appeler quand je veux en cas de question, d'inquiétude ou d'accouchement imminent. Quand on en a parlé, elle avait l'air assez sereine à l'idée de se faire réveiller potentiellement à 4h du mat (« ça roule bien à cette heure-ci »).
+Ma sage-femme est d'astreinte tout le dernier mois : je peux l'appeler quand je veux en cas de question, d'inquiétude ou d'accouchement imminent. Quand on en a parlé, elle avait l'air assez sereine à l'idée de se faire réveiller potentiellement à 4h du mat (« ça roule bien à cette heure-ci »).
 
 L'idée est que je l'appelle si je commence à ressentir des contractions de travail. Elle vient alors chez moi pour suivre le déroulement début du travail. Dès que c'est un peu avancé (au moins si on est sûrs qu'il s'agit du vrai travail), on fait un départ groupé pour la maternité.
 
 Si ça va plus vite, je peux aussi aller directement à la maternité pour qu'elle me rejoigne là-bas. On voit tout ça au téléphone sur le moment, il y a plein de solutions.
 
 Après la naissance, j'ai prévu de rester à l'hôpital comme après un suivi classique : cette solution me convient mieux. Si je voulais, je pourrais rentrer au plus tôt 2 heures après la naissance et opter pour l'hospitalisation à domicile (avec ma SF, ou une associée, qui vient me voir une fois par jour). Je préfère éviter cette solution essentiellement parce que j'ai une aînée de 2 ans à la maison (donc moyen bof pour se reposer), parce que je vais lancer un premier allaitement (j'aurai sûrement besoin de beaucoup d'aide à n'importe quelle heure du jour et de la nuit), et parce que j'ai pas envie de chercher un pédiatre à qui faire faire la visite des 3 jours à mon nouveau-né (on peut dire que c'est un peu de la flemme, oui).
+
+## Combien ça coûte ?
+
+Les consultations de suivi coûtent 23 €, remboursées à 100 % dans le cadre du suivi maternité à partir du 6<sup>e</sup> mois. Idem pour les prises de sang : le tiers payant sécu fait que je n'avance rien.
+
+Le « forfait accouchement » est facturé par l'hôpital à la sécu, en tiers payant.
+
+La sage-femme (la mienne, à voir vous avec la vôtre) demande un dépassement d'exigence de 500 € pour l'astreinte H24 et 7j/7 pendant le dernier mois ainsi que pour l'accompagnement lors de l'accouchement. Lors de la première consultation, elle a établi un devis que j'ai envoyé à la mutuelle. La mutuelle a accepté le devis, je suis sereine de ce côté-là.
