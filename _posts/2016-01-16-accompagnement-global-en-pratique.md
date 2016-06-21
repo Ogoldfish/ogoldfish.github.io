@@ -54,3 +54,7 @@ Les consultations de suivi coûtent 23 €, remboursées à 100 % dans le cadr
 Le « forfait accouchement » est facturé par l'hôpital à la sécu, en tiers payant.
 
 La sage-femme (la mienne, à voir vous avec la vôtre) demande un dépassement d'exigence de 500 € pour l'astreinte H24 et 7j/7 pendant le dernier mois ainsi que pour l'accompagnement lors de l'accouchement. Lors de la première consultation, elle a établi un devis que j'ai envoyé à la mutuelle. La mutuelle a accepté le devis, je suis sereine de ce côté-là.
+
+## Voilà
+
+C'était très intéressant, merci d'avoir lu jusque-là. :)
