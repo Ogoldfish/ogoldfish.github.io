@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La dernière tétée"
-image: posts/2016/money.jpg
+image: posts/2017/breastfeeding.jpg
 ---
 
 J'avais déjà essayé il y a quelques mois, il y a quelques semaines, pour capituler à chaque essai… Finalement, c'est à la faveur d'un traitement par Célestène à te donner « dans un fond de biberon » quelques jours avant tes 11 mois que nous avons entamé le sevrage. Le lait de croissance que tu recrachais, le biberon que tu rejetais, tout à coup tu les acceptais et tu en redemandais. Soit.
